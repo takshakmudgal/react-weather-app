@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { getCurrentWeather } from "./api";
+import { getCurrentWeather } from "./Api";
 import { FaTemperatureHigh } from "react-icons/fa";
 import {
   Box,
